@@ -1,0 +1,3 @@
+[submodule "swadha-common"]
+	path = swadha-common
+	url = ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/swadha-common
